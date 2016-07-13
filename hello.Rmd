@@ -1,6 +1,10 @@
 ---
 title: "Francesca_CSAMA2016"
+<<<<<<< HEAD
 output: github_document
+=======
+output: html_document
+>>>>>>> 733e60db285c0cf8fd649b8cde2f0bd9c708fbe9
 ---
 
 ```{r setup, include=FALSE}
